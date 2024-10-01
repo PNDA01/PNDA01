@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @PNDA01
-- 🌱 I’m currently studying computer science and cybersecurity. 
+- 🌱 I’m a computer science and cybersecurity engineering graduate. 
 - 📫 How to reach me: almeidandres@gmail.com
