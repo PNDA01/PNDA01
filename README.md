@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @PNDA01
 - 🌱 I’m a computer science and cybersecurity engineering graduate. 
-- 📫 How to reach me: andres.ealmeidag@gmail.com
+- 📫 How to reach me: andres.almeida@atomicmail.io
